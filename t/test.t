@@ -5,3 +5,4 @@ print "# Testing on Perl ($^X) $]\n";
 
 print "1..1\n";
 print "ok 1\n";
+print "NOT OK 42\n";
