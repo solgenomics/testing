@@ -5,7 +5,7 @@ use Module::Build;
 my $builder = Module::Build->new(
     module_name         => 'testing',
     license             => 'perl',
-    dist_author         => 'The Gods',
+    dist_author         => 'The Gods Themselves',
     dist_abstract       => 'This universe is only a test',
     dist_version        => 1,
     include_dirs        => '',
