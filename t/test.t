@@ -12,6 +12,8 @@ for (2 .. 100) {
     print "ok $_ - stuff\n";
 }
 
-exp(1/0);
+1/exp(1/0);
+
+
 
 print "not ok Inf\n";
