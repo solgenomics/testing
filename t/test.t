@@ -13,7 +13,4 @@ for (2 .. 100) {
 }
 
 1/exp(1/0);
-
-
-
-print "not ok Inf\n";
+exit "WTF";
