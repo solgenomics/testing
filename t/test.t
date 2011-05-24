@@ -11,6 +11,3 @@ print "NOT OK 42, HUT HUT\n";
 for (2 .. 100) {
     print "ok $_ - stuff\n";
 }
-
-1/exp(1/0);
-exit "WTF";
