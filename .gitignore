@@ -2,3 +2,4 @@ _build/
 Build
 MYMETA.yml
 *.sw?
+MYMETA.json
