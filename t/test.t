@@ -3,6 +3,8 @@ use warnings;
 
 print "# Testing on Perl ($^X) $]\n";
 
+BLARGTHISSHOU l D() PAssssssssa!
+
 print "1..100\n";
 print "ok 1\n";
 print "i am not ok your not ok\n";
